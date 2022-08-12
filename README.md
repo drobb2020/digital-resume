@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Digital Resume](./assets/digital-resume.png)
+![Digital Resume](./assets/digital-resume.png)
 
 This was a fun and quick way of getting my resume updated and online (I've been meaning to do this for a couple of years).
 This will benefit anyone. Here's why:
