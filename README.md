@@ -78,6 +78,7 @@
 
 This was a fun and quick way of getting my resume updated and online (I've been meaning to do this for a couple of years).
 This will benefit anyone. Here's why:
+
 * You can quickly and easily update your resume to reflect new skills and jobs
 * People can find you more easily, especially if they are looking for a developer
 * Coding is awesome, and shows off your skills to a perspective employer :smile:
@@ -106,9 +107,11 @@ A Code editor. I prefer Visual Studio Code
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/drobb2020/digital-resume.git
    ```
+
 2. Open the project in your code editor and modify the content to reflect your details.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -155,7 +158,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-David Robb - [@davidrobb2](https://twitter.com/davidrobb2) - drobb2011@gmail.com
+David Robb - drobb2011@gmail.com
 
 Project Link: [https://github.com/drobb2020/digital-resume](https://github.com/drobb2020/digital-resume)
 
@@ -170,16 +173,12 @@ Many thanks to Brad Traversy and Dennis Ivy for presenting this tutorial. If you
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
